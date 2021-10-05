@@ -1,6 +1,6 @@
 {
-  "name": "yokaiswap-core",
-  "description": "🎛 Core contracts for the yokai protocol",
+  "name": "boundless-core",
+  "description": "🎛 Core contracts for the Boundless protocol",
   "version": "0.1.0",
   "private": true,
   "engines": {

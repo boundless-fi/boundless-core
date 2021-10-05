@@ -1,4 +1,4 @@
-# YokaiSwap Core
+# Boundless Core
 
 ## Local Development
 
@@ -36,4 +36,4 @@ yarn deploy
 
 ---
 
-forked from [pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core)
+forked from [YokaiSwap/yokaiswap-core](https://github.com/YokaiSwap/yokaiswap-core)
